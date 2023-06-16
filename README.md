@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : [Farhan Maulana Firmansyah]  
+NIU : [460544]  
+Sesi : [Siang]  
+Secret String : [3a8ca21556261ac2f8471d2e36a9fc84f26fc2d8307ac350efca8050d68c453520230616142210]
 
 ## Checklist Responsi
 
